@@ -1,5 +1,5 @@
 # Optional packages which may be used with REST framework.
-coreapi==2.3.1
+coreapi==2.3.3
 coreschema==0.0.4
 django-filter
 django-guardian>=2.4.0,<2.5
